@@ -1,0 +1,8 @@
+{
+    "organization": "WIPO Application Technical Demo",
+    "timestamp": "2026-06-29 12:09:38",
+    "base_currency": "CHF (Swiss Franc)",
+    "target_currency": "INR (Indian Rupee)",
+    "live_exchange_rate": "1 CHF = 93.45 INR",
+    "status": "API Offline - Utilizing Cached Baseline Market Rates"
+}
